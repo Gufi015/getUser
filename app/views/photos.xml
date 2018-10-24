@@ -1,0 +1,5 @@
+<Alloy>
+	<Window>
+		<ScrollView id="scroll" layout="vertical" showPagingControl="true" backgroundColor="white"></ScrollView>
+	</Window>
+</Alloy>
